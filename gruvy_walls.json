@@ -52,6 +52,24 @@
 			"downloadable": true,
 			"dimensions": "2560 x 1500 px",
 			"copyright": "IZZLDSGN"
+		},
+		{
+			"name": "Gruvy Wall 7",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall7.png",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall7_thumbnails.png",
+			"downloadable": true,
+			"dimensions": "2560 x 1500 px",
+			"copyright": "IZZLDSGN"
+		},
+		{
+			"name": "Gruvy Wall 8",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall8.png",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall8_thumbnails.png",
+			"downloadable": true,
+			"dimensions": "2560 x 1500 px",
+			"copyright": "IZZLDSGN"
 		}
 	]
 }
